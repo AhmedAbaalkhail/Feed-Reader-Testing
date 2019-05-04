@@ -1,6 +1,6 @@
 # Feed Reader Testing
 
-This project is made for testing a website with jasmine and see if everything is working as it shuld be.
+This project is made for testing a website with jasmine and see if everything is working as it should be.
 
 ## Disclaimer
 
